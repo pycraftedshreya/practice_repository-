@@ -5,7 +5,7 @@ def additional_functionality():
 
 def main():
     print("Main function is running.")
-    print("Performing")
+    print("Performing some operations....")
     additional_functionality()
 
 if __name__ == "__main__":
