@@ -5,3 +5,6 @@ def additional_functionality():
 def main():
     print("Main function is running.")
     additional_functionality()
+
+if __name__ == "__main__":
+    main()
